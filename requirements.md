@@ -20,3 +20,10 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Link to Streamlit deploy
+
+```
+https://fadqode-final-project-da-dicoding-dashboard-r1nmou.streamlit.app/
+
+```
